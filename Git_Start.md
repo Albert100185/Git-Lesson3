@@ -16,3 +16,4 @@ git
 Git branch - вывести все ветки
 Git log - Выводит коммиты
 git branch name
+git log --graph
